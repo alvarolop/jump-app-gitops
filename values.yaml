@@ -24,7 +24,7 @@ jump-app-cicd:
 
 # Global variables
 global:
-  appsDomain: <openshift_apps_domain>
+  appsDomain: apps.apps.sandbox1022.opentlc.com
   # Jump microservices settings
   apps:
     front-javascript:
